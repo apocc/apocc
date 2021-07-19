@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**apocc/apocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Hi there 💪, I'm apocc**
 
-Here are some ideas to get you started:
+### According to some I'm a .NET developer but I dabble in almost anything code related... well except Python... oh, and Java. Those are on a need to code basis 😜.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm good at:
+
+`.NET || C# || C++ || JS || TS || HTML || CSS`
+</br>
+`React || Angular || Sass`
+
+</div>
