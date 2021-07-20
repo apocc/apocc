@@ -2,7 +2,7 @@
 
 ### **Hi there 💪, I'm apocc**
 
-#### According to some I'm a .NET developer but I dabble in almost anything code related... well except Python... oh, and Java. Those are on a need to code basis 😜.
+#### According to some I'm a .NET developer but I dabble in almost anything code related... well except Python... oh, and Java. Those are need to code only 😜.
 
 ---
 
@@ -10,7 +10,7 @@
 
 `.NET || C# || C++ || JS || TS || HTML || CSS`
 </br>
-`React || Angular || Sass`
+`React || Angular || Sass || Electron`
 
 ---
 
