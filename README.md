@@ -1,6 +1,6 @@
 <div align="center">
 
-### **Hi there 💪, I'm apocc**
+### **Hi there stranger, stay awhile and listen.**
 
 #### According to some I'm a .NET developer but I dabble in almost anything code related... well except Python... oh, and Java. Those are need to code only 😜.
 
